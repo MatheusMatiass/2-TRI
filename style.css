@@ -25,6 +25,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
+    text-align: center;
 }
 
 .container {
