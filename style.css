@@ -109,3 +109,7 @@ dispositivos__lista{
 .dispositivos__titulo{
     font-size: 48px;
 }
+
+.lista__item{
+    font-size: 32px;
+}
