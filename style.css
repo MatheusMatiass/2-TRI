@@ -90,7 +90,6 @@ body{
 .secundario__botao{
     display: inline-block;
     margin-top: 1em;
-    image-orientation: 1deg;
 }
 
 .container__descricao{
