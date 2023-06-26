@@ -100,3 +100,7 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.dispositivos{
+    text-align: center;
+}
