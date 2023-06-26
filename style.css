@@ -1,4 +1,4 @@
-:root {
+:root{
     --branco-principal: #FFFFFF;
     --cinza-secundario: #c0c0c0;
     --botao-azul: #167BF7;
@@ -6,7 +6,7 @@
     --fonte-principal: 'Inter';
 }
 
-body {
+body{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
@@ -20,7 +20,7 @@ body {
     
 }
 
-.principal {
+.principal{
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
@@ -28,12 +28,12 @@ body {
     text-align: center;
 }
 
-.container {
+.container{
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%
 }
-.container__botao {
+.container__botao{
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
@@ -43,7 +43,7 @@ body {
     margin-bottom: 1em;
 }
 
-.botao_secundario {
+.botao_secundario{
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
